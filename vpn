@@ -1,0 +1,313 @@
+#####  OpenVPN
+OpenVPN provides a full-featured open source SSL VPN solution that accommodates a wide range of configurations, including remote access, site-to-site VPNs, Wi-Fi security, and enterprise-scale remote access solutions with load balancing, failover, and fine-grained access-controls.
+
+Starting with the fundamental premise that intricacy is the enemy of security, OpenVPN offers a cost-efficacious, lightweight alternative to other VPN technologies that is well-targeted for the SME and enterprise markets. OpenVPN's lightweight design sheds many of the intricacies that characterize other VPN implementations. The OpenVPN security model is predicated on SSL, the industry standard for secure communications via the cyber world.
+
+OpenVPN implements OSI layer 2 or 3 secure network extension utilizing the SSL/TLS protocol, fortifies flexible client authentication methods predicated on certificates, perspicacious cards, and/or 2-factor authentication, and sanctions user or group-concrete access control policies utilizing firewall rules applied to the VPN virtual interface. OpenVPN is not a web application proxy and does not operate through a web browser.
+
+OpenVPN's principal strengths include cross-platform portability across most of the kenned computing universe, excellent stability, scalability to hundreds or thousands of clients, relatively facile installation, and support for dynamic IP addresses and NAT.
+
+OpenVPN provides an extensible VPN framework which has been designed to facilitate site-concrete customization, such as providing the capability to distribute a customized installation package to clients, or fortifying alternative authentication methods via OpenVPN's plugin module interface.
+
+OpenVPN offers a management interface which can be acclimated to remotely control or centrally manage an OpenVPN daemon. The management interface can withal be acclimated to develop a GUI or web-predicated front-end application for OpenVPN.
+
+TLS is the latest evolution of the SSL family of protocols developed pristinely by Netscape for their first secure web browser. TLS and its SSL predecessors have optically discerned widespread utilization on the web for many years and have been extensively analyzed for impotencies.
+
+In turn, this analysis has led to a subsequent invigorating of the protocol such that today, SSL/TLS is considered to be one of the most vigorous and most mature secure protocols available. As such, we believe TLS is an excellent cull for the authentication and key exchange mechanism of a VPN product.
+
+The bottom line is that OpenVPN is built for portability, is facile to utilize, has been rigorously designed and tested to operate robustly on unreliable networks with a vigorously modular design. Moreover, OpenVPN is expeditious and while OpenVPN provides many options for controlling the security parameters of the VPN tunnel, it additionally provides options for forfending the security of the server itself.
+
+#####  Hamachi
+Maintaining a low profile these days in the online medium has gotten more and more difficult, partly because of the growing pool of threats, as well as the capabilities of those who might want to have a look at your sensitive information. Resorting to solutions such as VPN clients, is one measure to combat such issues.
+
+Hamachi is an application that was developed specifically in order to provide you with hosted VPN services, which will allow you to adjust and extend LAN and similar networks for various purposes, such as professional team endeavors, gaming, or other applications.
+
+Having deployed the application, you will be greeted with a quite straightforward design, which offers a main visualizer area, which allows you to easily manage multiple networks simultaneously.
+
+All the created networks will be visible and readily accessible in the main list visualizer, which also features information regarding the corresponding IPs, as well as a simple, on/off switch, which can be used to easily toggle the status of the different networks.
+
+During testing, I found that creating new networks and managing them was very easy, requiring no special knowledge. This is partly due to the very accessible wizard that is included, which will guide you in the process.
+
+There are many other features that can be addressed, pertaining to gateway VPNs, mesh networking, centralized software deployment, as well as encryption, and security, which I believe enhance the app’s versatility.
+
+Hamachi comes equipped to face the rigors of modern VPN networking, offering a good selection of tools for creating and managing multiple virtual private networks, for various purposes.
+
+#####  Tunngle
+Playing games is no longer restricted only to one's computer, as more and more users from all over the world like to play against each other over the Internet or within the same network, with their friends. Those who want to be able to enjoy their LAN games with people from the other side of the world can try Tunngle, a specialized VPN tool.
+
+It needs to be mentioned that in order to make sure this program functions without any glitches, users also need to install the additional drivers offered during installation. A couple of modes are available so that the setup process either follows a standard configuration, or custom one in which all elements and drivers are enlisted.
+
+Once the PC is restarted to complete the setup process, users can create an account or enter their credentials in order to be able to connect with the large community behind Tunngle. Users can not only login to existing networks depending on the game they want to play, but they can also join chats and make friends with other users who share the same interests.
+
+Each game has its own dedicated virtual private network (VPN) and messages can be sent to any gamer in the same network, while the integrated messenger can also come in handy for getting acquainted with new people. Creating a user profile can also come in handy for those who are looking to become friends with other gamers.
+
+Considering this utility is created for a wide range of people who might or might not be tech-savvy, its default settings are enough to ensure smooth functioning of the app - further customization is available nonetheless, but not necessary. To be more accurate, you have access to multiple skins and sound alerts.
+
+To sum it up, Tunngle can be of great use to those who want to play LAN games with their friends regardless of the country they live in, yet it can also be used as a secure way to chat and have fun without needing to set up complex parameters.The computer's performance is not going to be hindered, the response time is quite good and the interface is quite intuitive. We did not come across any errors, crashes or bugs in our tests.
+
+#####  BartVPN
+Even though nobody can literally touch you, the Internet can be a dangerous place. Your every action can be tracked and traced, making you vulnerable to virtual attacks and an antivirus can't do anything about it. Luckily, using specialized applications such as BartVPN you are able to leave no trail when browsing the information superhighway.
+
+The deployment process is almost instantly completed and the application is ready to go. It features a modern, yet simple interface, with intuitive buttons that pose no accommodation problems. Most of the times it stays hidden in the system tray, once protection is activated you can forget it even runs.
+
+Depending on your location, the application connects to a server close to you so that it does not affect your browsing speed. You can manually pick a server from a drop-down menu in case the default one does not suit you.
+
+You can fully go incognito with the help of an integrated feature. Enabling Tracking protection removes Facebook and Google+ social buttons as well as Google Analytics tracking code so that a visited website does not even sense your presence.
+
+For enhanced ease of access, the application integrates a small button in your web browser that does not count as an addon or plugin. It simply gives you the possibility to enable or disable protection without having to bring up the main window from the system tray.
+
+One of the biggest disappointments is that there is no integrated help manual to get you out of sticky situations. There are available links to online help, but so far the pages are not accessible. However, the application is easy enough to use that it makes you ignore this small inconvenience.
+
+Taking everything into consideration, we can say that BartVPN is one of the best solutions out there to losing your trail on the Internet. It barely uses any of your system's resources and it does not slow down your connection. The only effort required on your behalf is going through the setup process.
+
+#####  CyberGhost
+Websites you visit usually bundle trackers for targeted advertising, search engines monitor user habits and profiles to offer suggestions, and so on. While these measures are meant to enhance the user experience, it is equally true that some might feel, and for good reason, that there are too many prying eyes watching.  Online privacy has become a concern of any computer user.
+
+One of the ways you could protect your personal information while navigating online is to join a secure virtual private network. There are numerous applications that can help you in this regard but a popular choice is Cyberghost.
+
+Cyberghost makes it possible to connect to a VPN server to secure your identity. Relying on robust security protocols, such as OpenVPN, IKEv2 and WireGuard, it secures all your data using powerful AES-256 encryption.
+
+While connected to Cyberghost, you get to navigate on the Internet without worrying about data theft attempts, tracking and logging. Data transfers, user actions and your current location are concealed, allowing you to surf anonymously. anonymous IP address
+
+An account is required to use Cyberghost. Once logged in, the non-intrusive and simple interface of the application is revealed, which bundles the current connection status, the target VPN server and information about your subscription.
+
+When opening the extended GUI, a list of all the servers is displayed, where you can mark some as your favorites for later use. It is worth mentioning that Cyberghost comes with lists of servers that are suited for gaming, streaming or torrenting. Depending on what you want to do, just make sure you choose the right server for optimum performance.
+
+The interesting thing is that, aside from all the available VPN servers, Cyberghost also allows you to get your own, anonymous IP address that cannot be shared with others.
+
+Cyberghost promises digital anonymity, with smart filtering rules, no logs policy, content blockers and DNS-leak prevention. Its support for multiple security protocols make it versatile enough to match the demands of all computer users.
+
+#####  TheGreenBow IPSec VPN Client
+Especially designed for large and medium enterprises, TheGreenBow IPSec VPN Client can integrate in expanding networks to ensure the security of remote connections. The application is compliant with the most popular VPN gateways, allows peer-to-peer VPN and accepts incoming IPsec tunnels.
+
+Once started, the program runs in your system tray. Right-clicking on the tray icon displays a menu, where you can access the 'Console', as well as the 'Connection Panel' or the configuration section.
+
+In order to ease your work, this VPN client enables you to create and configure a new private network using the built-in wizard, which can guide you step-by-step to opening a tunnel with another computer, a router or a VPN gateway. All you have to do is choose the IP or DNS address and the pre-shared key.
+
+The connection parameters can be easily modified. Thus, you can change the addresses of the VPN client and the remote host, the subnet mask, set the encryption mode and configure the alternate servers (DNS and WINS are supported). You can set the application to launch a script when the tunnel is opened or closed.
+
+Strong encryption algorithms (DES, AES etc.) and authentication methods (MD5, SHA-1, SHA-256), full IPSec standards configuration, IKE NAT-Traversal support and IPSec encryption are other features that this software comes with. You can protect your tunnel connection using a USB token.
+
+The VPN client enables you to request and manage multiple remote sharing sessions with computers in the remote network and supports SIP and VoIP traffic in the tunnel. The Dead Peer Detection (DPD) feature can be used to find inactive IKE peers, thus allowing you to manually set the check time interval, the maximum number or retries and the delay between retries.
+
+In conclusion, TheGreenBow IPSec VPN Client is a handy and easy to configure tool that you can use to secure remote connectivity in any network environment.
+
+#####  NeoRouter Free
+NeoRouter Free is a cross-platform software solution that allows remote access to other computers, regardless of the operating system they host. Relying on a server-client architecture, it facilitates UDP or TCP peer-to-peer connections, providing elevated control and customization possibilities.
+
+The server application must be deployed on the main computer, whereas the client needs to be installed on the remote systems. The two components communicate and work together so as to help you benefit from remote control, file sharing and many more.
+
+Once configured, the server runs as a Windows service, without requiring further assistance from the user's part. In order to establish the connection, the application creates a virtual LAN using NeoRouter Mesh, a cloud-based remote access and VPN server
+
+With the service running on your PC, you can login to the created domain and gain access to any of the connected computers. NeoRouter Free allows remote desktop control, fast file transfers and wake-on-LAN command sending.
+
+NeoRouter Free enables you to create multiple users accounts and assign them various privileges, so as to prevent unauthorized access to private data. Direct peer-to-peer connections can also be set up between client computers, which are also routed via the server. This provides stability, reliability and speed to the connection.
+
+Remote access can be used in various situations, from simple file management to troubleshooting. It comes with proxy and SSH compliance, VPN capabilities, chatting options and addons support, enabling you to control a remote PC in a secure and easy manner. And if you don't want to leave traces in your system's registry, you can also download NeoRouter Free Portable.
+
+#####  Shrew Soft VPN Client
+Shrew Soft VPN Client is a simple to use IPsec remote access VPN client that is especially created to offer a safe means of communication between windows hosts and open source VPN.
+
+IPsec, or Internet Protocol Security, enables you to encrypt and transfer data between two security gates or between a gateway and a host.
+
+Interface-wise, it’s compact, comprehensive and a connection can be set up in a matter of seconds if you know the exact information you need. It’s composed of just two windows. The main, which displays a list of all the created connections and the configuration one from where you enter the information required to make the connection.
+
+Though it is a quite lightweight application, it provides you with a large number of features and functionality possibilities. With Shrew Soft VPN Client you benefit from firewall transversal options, authentication methods, identification types, exchange modes, basic and advanced configuration exchange attributes, phase1 ciphers and algorithms, as well as phase 2 transforms and HMAC algorithms.
+
+When creating a new connection, you are to configure it using information about the host name, client, authentication, phase and policy.
+
+As far as identification types go, Shrew Soft VPN Client enables you to use a fully qualified domain name, user fully qualified domain name, IP address and a key identifier. The exchange modes that you can use are main, aggressive, configuration, quick and informal.
+
+The utility enables you to connect to both open source and commercial gateways and provides you with an auto reconnect feature.
+
+For those who are looking for a safe means to transfer personal, important files across VPN services, Shrew Soft VPN Client is a tool to be taken into serious consideration.
+
+#####  Kerio VPN Client
+Sometimes, large companies rely on so-called virtual private networks (also known as VPNs) to be able to safely share or transfer files with workstations located in remote locations. Such a VPN-dedicated application is Kerio VPN Client.
+
+It installs without any issue, as no user input is required and simply clicking the ‘Next’ buttons leads to successful installation.
+
+Once the application is launched, it needs to connect to a previously existing server that would allow users to share documents with remote computers. One simply needs to enter the server name, specify their username and password, then establish the connection.
+
+Those who use Kerio VPN Client can easily switch to a different language, in case English is not the same language they are using at work.
+
+The benefit of using Kerio VPN Client is that users do not need to learn how to manage new apps or get accustomed to new environments, as remotely transferring files becomes as simple as moving them to another computer location.
+
+The advantage of using a VPN is that users who do not have proper credentials cannot access the network thus jeopardizing the company’s confidentiality. Also, it needs to be mentioned that no hardware component is required, as a VPN is virtually created on any computer one might choose.
+
+To wrap it up, Kerio VPN Client will truly prove its worth in a business environment centered around a dedicated server and will provide users with safety and reliability when it comes to transferring files to remote computers.
+
+Due to this application, any physical barriers that might have prevented sharing between computers located in different cities or countries are overcome, without needing to renounce security or speed.
+
+#####  UltraVPN
+UltraVPN is a practical tool that allows you to route your Internet connection through a secure server in order to protect your personal data.  It is based on the OpenVPN application and allows you to use its features in order to create the secure connection.
+
+The interface of the app is simple and allows you to connect to the VPN by simply entering a user and an address. You do not need to create a paid account or open a webpage in order to create the account. Just enter the login credentials in the main window of the application and you are done.
+
+The main window provides you with information about the connection status and displays the potential errors. When started for the firrst time the application scans the OpenVPN folder for configuration files and attempts to create a connection with the detected parameters.
+
+You can set a default connection for the program by creating a shortcut and using the "--connect" parameter. The Options window allows you to change the connection parameters and to use a proxy server for connecting the Internet.
+
+In our tests, the program had problems in connecting the secure network and did not manage to successfully anonymize the IP address of the user. It seems as the support for this application has ceased and it is no longer suitable for routing the Internet access.
+
+Overall, UltraVPN is a lightweight application designed to protect your identity while you are browsing the Internet. Unfortunately, it is no longer functional due to lack of support so you need to look for another solution.
+
+#####  VPN Gate Client Plug-in
+VPN Gate Client Plug-in serves as an innovative solution to address online accessibility, privacy, and security concerns. Through a global network of diverse servers contributed by volunteers, VPN Gate can empower you to navigate past restrictions, protecting your identity, and securing online communications.
+
+One of the most notable features of the tool is its robust infrastructure, boasting an impressive network of over 7,000 public VPN servers strategically positioned across the globe. Primarily relying on volunteers, the server distribution covers key regions worldwide, with a strong presence in Asia.
+
+While the dynamic nature of the VPN Gate network provides real-time information about available servers and supported VPN protocols, the problem is that they are run by volunteers. Consequently, the servers may go offline when owners shut down their computers, leading to occasional unavailability of specific locations.
+
+A further shortcoming resulting from this is the unreliable speed, especially if you are not located in Asia. Unlike its paid counterparts, it lacks the quick-connect feature that enables you to automatically connect to the fastest VPN server.
+
+The app stands out among free VPN providers by offering robust encryption through SoftEther, utilizing up to 256-bit AES encryption, RSA 4096-bit key encryption, and SHA-1 hashing. It supports multiple protocols, albeit varying by server due to the autonomous operation by volunteers.
+
+Despite the commendable encryption and protocol options, it lacks some standard features found in other VPN services. Notable omissions include a kill switch, port forwarding for torrents, and explicit information on IPv6, DNS, or WebRTC leak protection. Considering the rudimentary security features, it is safe to assume that the app is more of a convenient solution for quick device security, especially in public settings.
+
+Lastly, it is important to note that the volunteers have absolute control over what’s happening on their servers. They have the discretion to decide whether they will keep logs of user activities, including IP addresses, visited websites, and downloads.
+
+They have the autonomy to determine how long they retain user information. The absence of a standardized policy across the network increases the risk of varying privacy practices and numerous risks when using VPN Gate Client Plug-in.
+
+#####  Vpn One Click
+As its name implies, Vpn One Click is a reliable application that provides you with a simple method for protecting your identity while navigating online by connecting to a virtual private network server.
+
+Designed with simplicity in mind, the application only consists of a single window, where you can select the VPN server location, view the connection status and your IP address. There are no other configuration options available, which makes it suitable for any type of user, whether you're a professional or a beginner.
+
+The application provides support for multiple VPNs, located in different regions around the world, from USA and Canada, some European countries, all the way to India and Australia. You can choose the desired network or let the program do that for you by choosing the 'Random' option.
+
+Once the connection is active, Internet communications are encrypted and your computer is given a false IP address. No matter the application you use (email client, web browser etc.), the connection appears as coming from another location and your identity is hidden, thus preventing unwanted tracking.
+
+The server changes every time a connection is made and the application does not log connection details. Together with the integrated virtual firewall, these features provide you with an additional security layer, ensuring that the connection is truly safe.
+
+The application features unlimited traffic and provides fast navigation speed. Changing the IP address results in removing the restrictions that some websites impose for different geographical regions. For instance, you can use it to watch national TV channels while you are abroad.
+
+Vpn One Click is an intuitive tool that comes in handy for those who want to anonymize the Internet connection and modify the IP address, in order to stop unwanted interceptions and protect their privacy.
+
+#####  VPN-X Server
+Making available network resources or sharing data without sufficient security measures may allow unauthorized access to important information or result in unexpected damage to the whole infrastructure. For this reason, it is very of the essence to make sure all data traffic is encrypted and only end-to-end shielded connections are established with peers outside the organization.
+
+A quite simple way of achieving this goal is if you are using a VPN solution that will control and cypher all communications, without allowing anyone to peek into the data that is being exchanged through such connections.
+
+In order to handle the requirements of a network-scale deployment, you will need to turn your attention to a tool like VPN-X Server. Besides being cross-platform, thus compatible with many operating systems that may be installed onto the various systems connected to the same network, this software is also quite easy to configure.
+
+Even though setting it up may seem like a complicated task, the truth is an average user with minimal knowledge and insight concerning the essentials of networking should be able to get it up and running in a matter of minutes.
+
+The clear interface allows you to view the details for each connected peer, including their public and VPN virtual IPs and connection protocol they utilize. Adding, editing and deleting users is also quite facile and in case you want to review all the actions since the server was initialized, the log window will make that possible.
+
+A neat feature of VPN-X Server is the built-in chat room, where all the connected peers will be able to get in touch and communicate freely, without worrying that someone outside the secured network can read their messages.
+
+To sum things up, this solution can be really easy to work with and should provide the necessary protection required in a larger environment. Nonetheless, it could use some more advanced and detailed monitoring and control functions.
+
+#####  VPN-X Client
+VPN-X Client is a Windows application that you can use to set up a virtual private network and forward ports on the client side. It automatically detects the virtual network driver.
+
+During installation, it's necessary to allow the tool to set up a TAP driver in order to get it up and running properly, unless it already exists from a previous setup. The utility is wrapped in a user-friendly interface, where you can connect to a server via VPN by specifying the host, port number, username and password.
+
+It's also possible to choose the protocol from UDP, TCP or TCP (SSL over TLS) as well as to disable compression. The password can be saved for future login sessions. You can also apply a proxy configuration for establishing the Internet connection. Configuration settings can be exported to file and later imported to pick up where you left off.
+
+In the main app window, you can check out the peer, VPN virtual IP address, public IP, protocol, traverse NAT status and private chat mode, as well as choose a Windows file to share. You can ping hosts from the right-click menu and connect to them remotely.
+
+A VPN chat room is put at your disposal to exchange messages with other users connected to the same server (chat emoticons can be used too). You can also allow or deny access to certain peers, ask the tool to hide blocked peers, and view log details with the program's activity. Personal information can be edited when it comes to the username, password, full name, email and address. Moreover, you can ask the tool to act as a gateway.
+
+The tool worked smoothly on Windows 10 in our tests without putting a strain on system resources consumption. It contains handy options for creating a VPN and configuring settings. However, it hasn't been updated for a considerable amount of time.
+
+#####  VpnProxy
+Generally, running your connection through a VPN (virtual private network) has the benefit of keeping the traffic safe from prying eyes as well as maintaining your privacy online.
+
+VpnProxy is a simple solution that can help with routing the traffic through such a network without too much effort.
+
+The application is easy to install and the entire procedure should not take more than a few seconds. Working with it is not complicated, either.
+
+When launched, it presents a simple screen that does not leave too much room for confusion. All you have to do is provide the necessary settings and the connection can be established in a jiffy.
+
+Before using the program you should know that the tool can work with all VPN solutions relying on the PPTP protocol and that it can handle a sufficient amount of connections in order to be suitable at enterprise level.
+
+The configuration panel offers few options, and chief among them is initiating the connection. This can be done by setting some rules regarding the server address and the first and last IP addresses the connection should be redirected from.
+
+There is no limit to the amount of rules that can be set and the developer touts that VpnProxy can work with hundreds of connections.
+
+VpnProxy is not complicated to handle and it offers the advantage of routing the traffic through a server without making changes to the current network configuration.
+
+#####  Vpn4All
+Browsing the Internet securely and without having someone tracking your whereabouts can be achieved through an anonymization service or using a specialized software that will take care of everything without requiring too much interaction for the user.
+
+Among the tools that especially designed for this purpose, you might come across Vpn4All, a sleek looking utility that is able to establish an encrypted connection to a secure server that ensures no one can intercept the outgoing and incoming traffic.
+
+The highly secured links are available for all users who subscribed to the service and through this program it is possible to benefit from numerous VPN servers and secure IPs, including fixed ones. The configurations that are at your disposal are rather basic, but nonetheless essential.
+
+You can have Vpn4All run on Windows startup and establish an encrypted connection immediately. If you are behind a restrictive firewall, there is an option to use TCP servers on launch, but you should note that this will have a negative impact on the overall speed and this method is also prone to disconnections.
+
+In case you need to send and receive e-mails during the time the VPN connection is active, you can enable this from the dedicated area of Vpn4All. All you will have to provide is the SMTP server address from your Internet Service Provider (ISP) in case the e-mail provider doesn't support SSL SMTP.
+
+A neat feature of this application is the ability to change the IP address automatically, at a predetermined time interval. Alternately, you can have a 'Change IP' button added to the main window of Vpn4All so you can make the modification instantly, by hand.
+
+Thanks to the many useful features it brings and especially to the ease of use that characterizes it, this utility can prove to be one of the smartest choics in its category.
+
+#####  VPN Unlimited 
+VPN Unlimited is a lightweight and efficient piece of software meant to assist you in protecting the personal information you may be dispersing when browsing the Internet, by tunneling and encrypting your traffic through several world-wide servers.
+
+During the installation process, you are required to create an account (with your email address and a preferred password) or login using your credentials, if you already have one.
+
+You can then select the server you wish to start with from the provided list, allowing you to choose from several available options, such as ‘Netherlands, Amsterdam’, ‘United Kingdom, Hampshire’, ‘France, Paris’ or any other ‘Optimal Server For You’.
+
+After finishing the setup, you can click 'Start' and VPN Unlimited will begin tunneling your web activity through the selected server, optionally being able to run at Windows startup, for an increased level of protection.
+
+The main window of the program displays your current status and the email address you used in creating your account, allowing you to ‘Logout’ with a single click, or change your password. The ‘Account Management’ feature enables you to have the application request your password every time you launch it, for added security.
+
+At the same time, VPN Unlimited lists the currently ‘Active Server’, and lets you choose another one, if you need to, with the ‘Select Server’ option. The ‘Show Statistic’ button helps you list for how long you have used the tool, the exact days and the amount of traffic.
+
+When closed, VPN Unlimited retreats to the system tray, continuing to perform its task, yet not interfering with your regular activities. By right-clicking on its icon, you can disconnect from the server or change it.
+
+VPN Unlimited is an intuitive and useful utility whose main purpose is to help you protect your online privacy by conducting all Internet activities through a Virtual Private Network, additionally enabling you to bypass certain IP-related restrictions.
+
+#####  VPN PRO
+Using a VPN has several perks. By concealing your real IP address, not only that you can bypass any geographical-based restriction, but you also protect your identity and secure your communications. If you are on the lookout for a VPN application, VPN PRO might be a good option.
+
+Working with VPN PRO is quite intuitive, thanks to the simple interface and the limited number of options. What you have to do is select a country from a drop-down menu. You will notice that the list is filled with locations from all around the world and, while you can choose any, it is advisable you select your country or a neighboring one to ensure higher speed. In other words, the farther the country from your real one, the higher the risk to experience low connection speeds.
+
+Aside from the big 'Connect' button, there are three other buttons within the main window. One of them is for selecting the exact server you want to connect to from a list that is sorted by popularity. Once you are connected, you will be able to check your current IP address and location and see if your connection is encrypted.
+
+Aside from configuring the connection timeout and the language, there is no other option in the application's settings.
+
+It should be appreciated that everything is kept so simple, although some additional system tray options would increase the comfort of the user. For instance, it would come in handy to allow changing the server from the tray menu or connect and disconnect to and from the VPN server.
+
+There are no additional options for more experienced users. The re-routed traffic cannot be filtered, and no exceptions can be configured. In essence, VPN PRO only allows you to choose the target server and initiate a connection to conceal your real IP address.
+
+VPN PRO can redirect the entire traffic through the chosen VPN server, making it seem like you are located in another country or city. The sent and received data is encrypted using a 1024 bit key, so all your communications are secured. The good thing about it is that it is simple enough to be used by anyone.
+
+#####  VPN.Express
+VPN.Express is a tiny utility that can cloak your computer's actual IP address and hence, circumvent authorities censorship that prevents you from safely communicating with users from across the world and access content that is restricted in your geographic area.
+
+Following a swift and uneventful installation, you are required to add your credentials before you can employ the application. Make sure that you create an account and select the package that is most suitable in your case.
+
+The program comes with a GUI that is standard for applications in this category. More precisely, while in the upper section, you can view whether you are connected, in the lower area you can access your account, settings, inspect your current server along with the IP address.
+
+It is worth mentioning that the tool uses tunnel encryption to protect your real IP address and connection so that it cannot be easily detected. In other words, when you are accessing the Internet via the secure client, you can be sure that your ISP cannot monitor your activity of the data transfers.
+
+In addition to overcoming restrictions or limitations imposed by the Internet Provides or governments, browsing the Internet through an encrypted connection also prevents third-party websites and services from accessing your personal data.
+
+Depending on your needs and preferences, the program can be configured to launch and connect at system startup. The option can save you a lot of time when you are traveling to a location known to have online content restrictions or for journalists, for example.
+
+Irrespective of whether you are trying to watch movies that are banned in your country, want to check out various online content or want to make sure that your ISP and government are not invading your privacy, VPN.Express can come in handy.
+
+#####  VPN Dialer
+VPN Dialer is a software solution that was built to enable users in setting up Virtual Private Networks (VPN) with built-in PPTP and L2TP/IPSec protocols, so that you can easily send and receive data across networks.
+
+While the setup process was quite lengthy, it did not pose any kind of issues, and the interface has been developed as a wizard. This means that you are going to be guided every step of the way and therefore, both power and novice users can easily learn to handle VPN Dialer without facing any kind of difficulties.
+
+First and foremost, you should know that this tool enables you to add up to three routing and remote access servers, be they a DNS name or an IP address, so that you can easily start working in the conditions you want.
+
+These servers can also be validated with just a click of the button, so that you can be sure you have inputted them correctly.
+
+If you happen to have additional routers on your network, it is a good idea to also add them to the program, so that you can be sure that the connection is not going to fail.
+
+Split tunneling can be disabled, credentials can be added about your VPN account (ID, password) and tested, while you can also use a dynamic IP address or require a static one. Some final tests can be performed and you can start using the newly created Virtual Private Network.
+
+The computer’s performance is not going to be hindered at all as it does not require a large amount of resources in order to work properly. The response time is good, the interface is friendly to all user categories and we did not come by any kind of hangs or crashes.
+
+To wrap it up, VPN Dialer is a pretty efficient and reliable piece of software for those interested in setting up a VPN in just a few steps.
+
+#####  
+
+
